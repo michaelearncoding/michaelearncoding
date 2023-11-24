@@ -6,9 +6,14 @@ Introduction
 
 Hello, I am excited to present myself as a dedicated graduate student from the University of Waterloo, specializing in data engineering. My academic journey has equipped me with a solid foundation in computer science and a profound passion for working with data. My goal is to make a meaningful impact in the realms of technology and innovation.
 
-Academic Background
+😄Academic Background
 
 During my time at the University of Waterloo, I have gained a comprehensive understanding of fundamental data concepts, various programming languages, and database systems. Through engaging coursework, hands-on projects, and collaborative efforts with both professors and peers, I have developed expertise in data modeling, data integration, data transformation, and data warehousing.
+
+⚡Toolbox:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="Pytorch Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="MATLAB Logo" width="50" height="50">
+
 
 Analytical and Creative Problem-Solving
 
