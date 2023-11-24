@@ -9,6 +9,7 @@ Hello, I am excited to present myself as a dedicated graduate student from the U
 😄Academic Background
 
 During my time at the University of Waterloo, I have gained a comprehensive understanding of fundamental data concepts, various programming languages, and database systems. Through engaging coursework, hands-on projects, and collaborative efforts with both professors and peers, I have developed expertise in data modeling, data integration, data transformation, and data warehousing.
+
 ---
 ⚡Toolbox
 
