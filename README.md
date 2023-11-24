@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Qingda(Michael) Mai !
+[![Linkedin](https://img.shields.io/badge/Linkedin-Michael--Mai-blue)](https://www.linkedin.com/in/michael-mai1/)
 
 <!--
 **michaelearncoding/michaelearncoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
