@@ -1,10 +1,12 @@
-### Hi there 👋, I am Qingda(Michael) Mai !
+#
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Qingda(Michael) Mai !
+=============================================================================================================================================
 [![Linkedin](https://img.shields.io/badge/Linkedin-Michael--Mai-blue)](https://www.linkedin.com/in/michael-mai1/)
 
 
 Introduction
 
-Hello, I am excited to present myself as a dedicated graduate student from the University of Waterloo, specializing in data engineering. My academic journey has equipped me with a solid foundation in computer science and a profound passion for working with data. My goal is to make a meaningful impact in the realms of technology and innovation.
+Hello, I am excited to present myself as a dedicated graduate student from the University of Waterloo, specializing in data engineering/Optimization/ML. My academic journey has equipped me with a solid foundation in computer science and a profound passion for working with data. My goal is to make a meaningful impact in the realms of technology and innovation.
 
 😄Academic Background
 
