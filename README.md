@@ -6,7 +6,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 Introduction😄 Academic Background & Interest
 
-Hello, I am excited to present myself as a dedicated graduate student from the University of Waterloo, specializing in Operation Research/cloud infrastructure(distributed Sys)/Data engineering/Optimization methods for ML/ Machine Learning/Deep Learning/RL/Financial Engineering(Quant). My academic journey has equipped me with a solid foundation in computer science and a profound passion for working with data. My goal is to make a meaningful impact in the realms of technology and innovation.
+Hello, I am excited to present myself as a dedicated graduate student from the University of Waterloo, specializing in Software Development/Operation Research/cloud infrastructure(distributed Sys)/Data engineering/Optimization methods for ML/ Machine Learning/Deep Learning/RL/Financial Engineering(Quant). My academic journey has equipped me with a solid foundation in computer science and a profound passion for working with data. My goal is to make a meaningful impact in the realms of technology and innovation.
 
 
 ---
